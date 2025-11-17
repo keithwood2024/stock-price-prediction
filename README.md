@@ -273,7 +273,7 @@ Parallel Processing: All CPU cores
 
 ## 👥 Team Members
 - **Keith Wood**
-- [Team Member 2]
-- [Team Member 3]
+- **Miguel Torres**
+- **John Garofalo**
 - [Team Member 4]
 - [Team Member 5]
