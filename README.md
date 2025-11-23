@@ -275,5 +275,5 @@ Parallel Processing: All CPU cores
 - **Keith Wood**
 - **Miguel Torres**
 - **John Garofalo**
-- [Team Member 4]
-- [Team Member 5]
+- **Juan Valencial**
+- **Joseph Ortega**
