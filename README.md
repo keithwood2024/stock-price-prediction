@@ -3,6 +3,8 @@
 **CAP 4630 - Intro to Artificial Intelligence**  
 **Final Project**
 
+📹 **Video Presentation**: [Watch on YouTube](https://youtu.be/mgE8zhMtaBM)
+
 ---
 
 ## 📊 Project Overview
